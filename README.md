@@ -12,7 +12,7 @@ To reach me via e-mail : hasancanozbekk@gmail.com
 </div>
 <br>
 
-<h2 align="center"> :arrow_down: Sosyal Medya Hesaplarım </h2>
+<h2 align="center"> :arrow_down: Social Media Accounts </h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/hasan-can-özbek-4b4a92211/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="40" width="40" /></a>
 <a href="https://instagram.com/hasancanozbekk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="40" width="40" /></a>
