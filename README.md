@@ -1,5 +1,5 @@
 Hello there, 
-I'm Hasan Can Özbek. I am in the 2nd year of İnönü University / Computer Engineering department. I'm trying to train myself as a full stack developer and interested in Back-End and Machine Learning disciplines. 
+I'm Hasan Can Özbek. I am in the 3rd year of İnönü University / Computer Engineering department. I'm trying to train myself as a full stack developer and interested in Back-End and Machine Learning disciplines. 
 <br>
 To reach me via e-mail : hasancanozbekk@gmail.com
 
