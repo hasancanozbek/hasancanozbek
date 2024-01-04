@@ -58,6 +58,7 @@
 # Medium Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Real Time Operating System &lpar;RTOS&rpar;](https://medium.com/@hasancanozbek/real-time-operating-system-rtos-cb68b5843579?source=rss-f036be32c633------2)
 - [How Does A CPU Work?](https://medium.com/@hasancanozbek/how-does-a-cpu-work-db2bdf7120f3?source=rss-f036be32c633------2)
 - [Adapter Design Pattern](https://medium.com/@hasancanozbek/adapter-design-pattern-892c6eb2818b?source=rss-f036be32c633------2)
 - [Repository Design Pattern](https://medium.com/@hasancanozbek/repository-design-pattern-6b470c11625e?source=rss-f036be32c633------2)
