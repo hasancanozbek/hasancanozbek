@@ -8,8 +8,6 @@
 <a href="https://medium.com/@hasancanozbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hasancanozbek" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hasancanozbek&show_icons=true&locale=en" alt="hasancanozbek" /></p>
-    
     
 <h3 align="left">Languages:</h3>
 <p align="left"> 
